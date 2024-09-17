@@ -3,7 +3,7 @@ import './App.css';
 
 import ToDoList from './commponant/ToDoList';
 import ToDoInPut from './commponant/ToDoInput';
-import ToDoCard from './commponant/ToDoCard';
+
 import { useState } from 'react';
 import { useEffect } from 'react';
 function App() {
